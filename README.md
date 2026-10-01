@@ -67,11 +67,24 @@ I'm currently focused on strengthening my frontend development skills through bu
 <h2><b>📍 Social links for Contact</b></h2>
 
 - 📍 **Location:** Bangladesh
-- 📧 **Email:** tahrimakeya22@gmail.com
-- 💼 **Facebook:** (https://www.facebook.com/your-profile)
-- 🐙 **GitHub:** (https://github.com/tharimakeya-dev)
-- 
+- ## ✨ Socials:
 
+<a href="https://twitter.com/https://x.com/TahrimaKeya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tharima-sultana-keya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+<a href="https://facebook.com/https://www.facebook.com/tahrimasuzeankeya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/tahrimasuzeankeya?stkn=ZXE0aW45cTlyNWcy" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" />
+</a>
+<a href="https://youtube.comhttps://www.youtube.com/@keyascreativity12/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="32" height="32" alt="YouTube" />
+</a
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
 </p>
