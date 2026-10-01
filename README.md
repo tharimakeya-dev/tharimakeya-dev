@@ -54,6 +54,5 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 💼 LinkedIn: [Tharima Sultana Keya](https://www.linkedin.com/in/tharima-sultana-keya-b780b026a)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Code.%20Build.%20Solve.%20Repeat.&fontSize=48&fontColor=gradient&customColorList=12,14,16,18,20&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Code. Build. Solve. Repeat." />
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
 </p>
-
