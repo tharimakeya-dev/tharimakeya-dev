@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Tharima Sultana Keya Banner" width="100%">
-</p>
 
 
 <p align="center">
