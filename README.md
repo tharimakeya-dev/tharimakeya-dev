@@ -67,7 +67,6 @@ I'm currently focused on strengthening my frontend development skills through bu
 <h2><b>📍 Social links for Contact</b></h2>
 
 - 📍 **Location:** Bangladesh
-- ## ✨ Socials:
 
 <a href="https://twitter.com/https://x.com/TahrimaKeya" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
@@ -78,12 +77,8 @@ I'm currently focused on strengthening my frontend development skills through bu
 <a href="https://facebook.com/https://www.facebook.com/tahrimasuzeankeya" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/tahrimasuzeankeya?stkn=ZXE0aW45cTlyNWcy" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" />
-</a>
-<a href="https://youtube.comhttps://www.youtube.com/@keyascreativity12/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="32" height="32" alt="YouTube" />
-</a
+<a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
+<a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
