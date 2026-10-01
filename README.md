@@ -6,10 +6,13 @@
 
 <h3 align="center">🌐 Full Stack Web Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Currently+Learning+React.js;Building+with+Next.js;Code.+Build.+Solve.+Repeat." alt="Typing SVG" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Typing SVG" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Currently+Learning+React.js" alt="Typing SVG" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+with+Next.js" alt="Typing SVG" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=500&lines=Code.+Build.+Solve.+Repeat." alt="Typing SVG" />
+</p>
 ---
 
 ## 👩‍💻 About Me
