@@ -78,3 +78,4 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/thanks.svg" alt="Thanks for visiting my profile!" />
 </p>
+<img src="./assets/parrot-footer.svg" width="100%" />
