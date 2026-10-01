@@ -79,5 +79,5 @@ I'm currently focused on strengthening my frontend development skills through bu
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/thanks.svg" alt="Thanks for visiting my profile!" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/wave.svg" width="100%" alt="Wave" />
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/wave.svg?v=3" width="100%" alt="Wave" />
 </p>
