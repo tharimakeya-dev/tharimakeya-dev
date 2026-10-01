@@ -31,11 +31,27 @@ I'm currently focused on strengthening my frontend development skills through bu
 ---
 
 ## 🛠️ Skills in Technologies
+<h2><b>🛠️ Languages and Tools:</b></h2>
 
+<h4>💻 Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,py,java,c,ts,mysql" alt="Languages" />
 </p>
 
+<h4>🌐 Web Development</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Web Development" />
+</p>
+
+<h4>🗄️ Database & Backend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs,express" alt="Database and Backend" />
+</p>
+
+<h4>🔧 Tools & Platforms</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools and Platforms" />
+</p>
 ---
 
 ## 💡 My Focus Areas
