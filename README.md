@@ -4,12 +4,12 @@
 
 <h1 align="center">👋 Hi, I'm Tharima Sultana Keya</h1>
 
-<h3 align="center">🌐 Full Stack Web Developer</h3>
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Full%20Stack%20Developer&fontSize=40&fontColor=gradient&fontAlign=50&fontAlignY=50&color=gradient&customColorList=12,14,16,18,20&animation=fadeIn" alt="Full Stack Developer" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
+  </a>
 </p>
+
 ---
 
 ## 👩‍💻 About Me
