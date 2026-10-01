@@ -68,7 +68,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 - 📍 **Location:** Bangladesh
 - 📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
-- 💼 **Facebook:** [Your Facebook Name](https://www.facebook.com/your-profile)
+- 💼 **Facebook:** (https://www.facebook.com/your-profile)
 - 🐙 **GitHub:** [tharimakeya-dev](https://github.com/tharimakeya-dev)
 - 
 
