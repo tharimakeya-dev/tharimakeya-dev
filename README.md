@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/banner.png" alt="Tharima Sultana Keya - Full Stack Web Developer" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Tharima Sultana Keya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Tharima+Sultana+Keya" alt="Hi, I'm Tharima Sultana Keya" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
