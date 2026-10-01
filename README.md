@@ -123,5 +123,4 @@ I'm currently focused on strengthening my frontend development skills through bu
 ![Dev Quote](quote.svg)
 
 ## 📈 Contribution Graph
-
-(https://github-readme-activity-graph.vercel.app/graph?tharimakeya-dev-github-username&theme=react-dark&bg_color=ffffff&color=a855f7&line=a855f7&point=e9d5ff&area=true&area_color=a855f7&hide_border=true&title_color=a855f7)
+![Activity Graph](https://আপনার-app.vercel.app/graph?username=tharimakeya-dev&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=e9d5ff&area=true&area_color=a855f7&hide_border=true&title_color=a855f7)
