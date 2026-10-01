@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="100%" role="img" aria-label="Two animated parrots in opposite corners">
+
+  <!-- ========== LEFT TOP: Scarlet Macaw ========== -->
+  <g transform="translate(18 6)">
+    <path d="M-5 112 Q45 104 105 114" stroke="#7B4B2A" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <path d="M85 112 Q100 96 115 100 Q104 110 92 113 Z" fill="#43A047"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-3 45 110;3 45 110;-3 45 110" dur="3s" repeatCount="indefinite"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 42 100;7 42 100;0 42 100;-5 42 100;0 42 100" dur="2.4s" repeatCount="indefinite"/>
+        <path d="M36 98 Q14 140 26 172 Q44 150 52 104 Z" fill="#1D6FE0"/>
+        <path d="M44 100 Q32 145 46 170 Q60 145 58 104 Z" fill="#E63946"/>
+      </g>
+
+      <path d="M30 50 Q18 92 38 112 Q64 108 64 72 Q62 40 46 38 Z" fill="#E63946"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 40 60;-12 40 60;0 40 60;-6 40 60;0 40 60" dur="1.6s" repeatCount="indefinite"/>
+        <path d="M28 58 Q14 92 28 124 Q52 104 52 62 Z" fill="#1D6FE0"/>
+        <path d="M28 58 Q22 74 24 88 Q46 80 52 62 Z" fill="#FFC300"/>
+      </g>
+
+      <path d="M40 110 l-3 6 M46 110 l0 7 M52 110 l3 6" stroke="#444" stroke-width="2.5" stroke-linecap="round"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 48 46;-6 48 46;0 48 46;4 48 46;0 48 46" dur="2.2s" repeatCount="indefinite"/>
+        <circle cx="48" cy="32" r="19" fill="#E63946"/>
+        <ellipse cx="55" cy="31" rx="9" ry="8" fill="#fff"/>
+        <circle cx="57" cy="31" r="4" fill="#222"/>
+        <circle cx="58.3" cy="29.6" r="1.3" fill="#fff"/>
+        <path d="M64 22 Q88 20 84 46 Q80 38 70 40 Q63 34 64 22 Z" fill="#F3E3C3" stroke="#B89B6A" stroke-width="1"/>
+        <path d="M68 40 Q78 38 82 46 Q74 48 68 44 Z" fill="#555"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- ========== RIGHT BOTTOM: Green Parrot (mirrored) ========== -->
+  <g transform="translate(942 100) scale(-1 1)">
+    <path d="M-5 112 Q45 104 105 114" stroke="#7B4B2A" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <path d="M85 112 Q100 96 115 100 Q104 110 92 113 Z" fill="#43A047"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="3 45 110;-3 45 110;3 45 110" dur="3.6s" repeatCount="indefinite"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 42 100;-7 42 100;0 42 100;5 42 100;0 42 100" dur="2.9s" repeatCount="indefinite"/>
+        <path d="M36 98 Q14 140 26 172 Q44 150 52 104 Z" fill="#1D6FE0"/>
+        <path d="M44 100 Q32 145 46 170 Q60 145 58 104 Z" fill="#F9A825"/>
+      </g>
+
+      <path d="M30 50 Q18 92 38 112 Q64 108 64 72 Q62 40 46 38 Z" fill="#2ECC71"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 40 60;-12 40 60;0 40 60;-6 40 60;0 40 60" dur="1.9s" repeatCount="indefinite"/>
+        <path d="M28 58 Q14 92 28 124 Q52 104 52 62 Z" fill="#1B8F4C"/>
+        <path d="M28 58 Q22 74 24 88 Q46 80 52 62 Z" fill="#F9A825"/>
+      </g>
+
+      <path d="M40 110 l-3 6 M46 110 l0 7 M52 110 l3 6" stroke="#444" stroke-width="2.5" stroke-linecap="round"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 48 46;5 48 46;0 48 46;-6 48 46;0 48 46" dur="2.6s" repeatCount="indefinite"/>
+        <circle cx="48" cy="32" r="19" fill="#27AE60"/>
+        <path d="M32 24 Q40 12 52 16 Q44 20 38 30 Z" fill="#E63946"/>
+        <ellipse cx="55" cy="31" rx="9" ry="8" fill="#fff"/>
+        <circle cx="57" cy="31" r="4" fill="#222"/>
+        <circle cx="58.3" cy="29.6" r="1.3" fill="#fff"/>
+        <path d="M64 22 Q88 20 84 46 Q80 38 70 40 Q63 34 64 22 Z" fill="#F3E3C3" stroke="#B89B6A" stroke-width="1"/>
+        <path d="M68 40 Q78 38 82 46 Q74 48 68 44 Z" fill="#555"/>
+      </g>
+    </g>
+  </g>
+</svg>
