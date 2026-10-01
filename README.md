@@ -103,9 +103,9 @@ I'm currently focused on strengthening my frontend development skills through bu
   <a href="https://github.com/tharimakeya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-tahrimakeya22@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-046307?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="mailto:tahrimakeya22@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-046307?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
 
 🌍 Portfolio Website: Coming Soon!
