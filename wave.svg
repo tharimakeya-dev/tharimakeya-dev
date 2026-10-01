@@ -1,5 +1,4 @@
 
-  <!-- পাখির ডিজাইন -->
   <defs>
     <linearGradient id="birdBody" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#4CC9F0"/>
@@ -8,20 +7,20 @@
     </linearGradient>
 
     <g id="bird">
-      <!-- লেজের পালক -->
+      
       <polygon points="16,30 -6,18 0,30" fill="#3B82F6"/>
       <polygon points="16,32 -8,32 2,40" fill="#4ADE80"/>
       <polygon points="16,28 -2,8 8,26" fill="#9333EA"/>
-      <!-- শরীর -->
+      
       <ellipse cx="40" cy="30" rx="26" ry="15" fill="url(#birdBody)"/>
-      <!-- মাথা -->
+    
       <circle cx="68" cy="20" r="11" fill="#F72585"/>
-      <!-- ঠোঁট -->
+    
       <polygon points="78,18 93,22 78,26" fill="#FACC15"/>
-      <!-- চোখ -->
+  
       <circle cx="71" cy="18" r="3" fill="#fff"/>
       <circle cx="72" cy="18" r="1.4" fill="#111"/>
-      <!-- ডানা (ঝাপটাবে) -->
+    
       <g>
         <path d="M30,28 Q38,-8 64,6 Q56,28 40,36 Z" fill="#F97316"/>
         <path d="M34,28 Q42,2 60,10 Q52,26 40,32 Z" fill="#F72585" opacity="0.85"/>
@@ -30,13 +29,11 @@
     </g>
   </defs>
 
-  <!-- বাঁ দিকের উপরে পাখি -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="1.2s" repeatCount="indefinite"/>
     <use href="#bird" transform="translate(15,6) scale(0.9)"/>
   </g>
 
-  <!-- ডান দিকের নিচে পাখি (উল্টো মুখ) -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="1.4s" repeatCount="indefinite"/>
     <use href="#bird" transform="translate(985,170) scale(-0.9,0.9)"/>
