@@ -103,21 +103,7 @@ I'm currently focused on strengthening my frontend development skills through bu
   <a href="https://github.com/tharimakeya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-<a href="mailto:tahrimakeya22@gmail.com" style="text-decoration: none;">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; font-family: Arial, sans-serif; font-weight: bold; border-radius: 4px; overflow: hidden; display: inline-table;">
-    <tr>
-      <!-- বাম দিকের কালো অংশ (আইকন লিংক ঠিক করা হয়েছে) -->
-      <td bgcolor="#333333" style="padding: 10px 15px; color: #ffffff; font-size: 14px; letter-spacing: 1px; vertical-align: middle;">
-        <img src="https://iconify.design" width="16" height="16" style="vertical-align: middle; margin-right: 6px;"> 
-        EMAIL
-      </td>
-      <!-- ডান দিকের লাল অংশ -->
-      <td bgcolor="#D32F2F" style="padding: 10px 20px; color: #ffffff; font-size: 14px; letter-spacing: 1px; vertical-align: middle;">
-        tahrimakeya22@gmail.com
-      </td>
-    </tr>
-  </table>
-</a>
+
 
 </p>
 
