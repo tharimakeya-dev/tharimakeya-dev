@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Tharima+Sultana+Keya" alt="Hi, I'm Tharima Sultana Keya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=9333EA&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Tharima+Sultana+Keya" alt="Hi, I'm Tharima Sultana Keya" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
