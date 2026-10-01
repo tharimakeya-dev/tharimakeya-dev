@@ -45,13 +45,16 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🟦 TypeScript
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
-
 ---
 
-## 📫 Contact Me
+<h2><b>📍 Social links for Contact</b></h2>
 
-- 📧 Email: tahrimakeya22@gmail.com
-- 💼 LinkedIn: [Tharima Sultana Keya](https://www.linkedin.com/in/tharima-sultana-keya-b780b026a)
+- 📍 **Location:** Bangladesh
+- 
+- 📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+- 💼 **Facebook:** [Your Facebook Name](https://www.facebook.com/your-profile)
+- 🐙 **GitHub:** [tharimakeya-dev](https://github.com/tharimakeya-dev)
+- 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
