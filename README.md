@@ -61,6 +61,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 </p>
 <h2><b>🔥 GitHub Streak</b></h2>
 
+
 <h2><b>🌐 Connect With Me</b></h2>
 
 <p>
@@ -70,10 +71,6 @@ I'm currently focused on strengthening my frontend development skills through bu
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-046307?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/thanks.svg" alt="Thanks for visiting my profile!" />
 </p>
 
 
