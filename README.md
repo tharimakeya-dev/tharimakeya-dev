@@ -56,3 +56,8 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tharimakeya-dev&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</p>
