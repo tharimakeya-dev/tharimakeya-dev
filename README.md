@@ -61,3 +61,16 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tharimakeya-dev&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
+
+<h2><b>🌐 Connect With Me</b></h2>
+
+<p>
+  <a href="https://github.com/tharimakeya-dev">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
