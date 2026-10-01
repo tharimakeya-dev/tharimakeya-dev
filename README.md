@@ -61,6 +61,10 @@ I'm currently focused on strengthening my frontend development skills through bu
 </p>
 <h2><b>🔥 GitHub Streak</b></h2>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tharimakeya-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <h2><b>🌐 Connect With Me</b></h2>
 
