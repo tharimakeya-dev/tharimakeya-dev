@@ -78,6 +78,13 @@ I'm currently focused on strengthening my frontend development skills through bu
 <h2><b>🔥 GitHub Streak</b></h2>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharimakeya-dev&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharimakeya-dev&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=tharimakeya-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
