@@ -54,7 +54,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 ---
    <img src="cute.png" align="right" width="200" alt="avatar" />
  
- ##💡My Facus Area
+ ## 💡 **My Focus Areas**
  
  
 🌐 Web Development
