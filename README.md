@@ -110,11 +110,8 @@ A responsive e-commerce website built with modern frontend technologies.
 <h2><b>🌐 Connect With Me</b></h2>
 
 <p>
-  <a href="https://github.com/tharimakeya-dev">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-<a href=":tahrimakeya22@gmail.com">
-  [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharimakeya-dev) [![Gmail](https://img.shields.io/badge/Gmail-tahrimakeya22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623)](https://mail.google.com/mail/?view=cm&fs=1&to=tahrimakeya22@gmail.com)
+  <a href="https://github.com/tharimakeya-dev"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tahrimakeya22@gmail.com"><img src="https://img.shields.io/badge/Gmail-tahrimakeya22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail"></a>
 </p>
 
 🌍 Portfolio Website: Coming Soon!
