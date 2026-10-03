@@ -67,7 +67,12 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🟦 TypeScript
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
+## 📌 Featured Projects
 
+### 🛍️ E-Commerce Website
+A responsive e-commerce website built with modern frontend technologies.
+
+**Tech:** React • JavaScript • Tailwind CSS
 
 <h2><b>📍 Social links for Contact</b></h2>
 
