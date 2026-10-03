@@ -104,16 +104,10 @@ I'm currently focused on strengthening my frontend development skills through bu
   <a href="https://github.com/tharimakeya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
  
 </p>
 
 🌍 Portfolio Website: Coming Soon!
-
-   ## 📈 Contribution Graph
-
-   [Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharimakeya-dev)
-
 
 
 <p align="center">
