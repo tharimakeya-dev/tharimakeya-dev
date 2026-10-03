@@ -115,10 +115,8 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
- <p align="center">
-  <img src="https://raw.githubusercontent.com/tharimakeya-dev-index.html/main/river.svg" alt="River animation" width="100%">
-</p>
-
+ 
+   <img src="river.svg" alt="River animation" width="100%">
 ### ✍️ Random Dev Quote
 
 ![Dev Quote](quote.svg)
