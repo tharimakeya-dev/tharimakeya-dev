@@ -48,11 +48,12 @@ I'm currently focused on strengthening my frontend development skills through bu
 </p>
 
 <h4>🔧 Tools & Platforms</h4>
-<p align="center">
-  <img src="assets/banner.png" alt="Guidely Banner" width="100%" />
-</p>
+
 <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
+</p>
+<p align="center">
+  <img src="assets/banner.png" alt="Guidely Banner" width="100%" />
 </p>
   
  ## 💡 **My Focus Areas**
@@ -64,9 +65,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🟦 TypeScript
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
-<p align="center">
-  <img src="./assets/banner.png" alt="Guidely Banner" width="100%" />
-</p>
+
 
 <h2><b>📍 Social links for Contact</b></h2>
 
