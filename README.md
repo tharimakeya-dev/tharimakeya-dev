@@ -52,7 +52,7 @@ I'm currently focused on strengthening my frontend development skills through bu
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools and Platforms" />
 </p>
 ---
-
+   <img src="cute.png" align="right" width="200" alt="avatar" />
 ## 💡 My Focus Areas
 
 - 🌐 Web Development
