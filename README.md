@@ -46,7 +46,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,express" alt="Database and Backend" />
 </p>
-### 🔧 Tools & Platforms
+###🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase,vercel,linux&perline=8" />
