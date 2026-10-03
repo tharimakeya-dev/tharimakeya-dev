@@ -114,7 +114,21 @@ I'm currently focused on strengthening my frontend development skills through bu
 </p>
 
 🌍 Portfolio Website: Coming Soon!
+## 📊 TECHNOLOGY STACK DASHBOARD
 
+### 🎯 CORE WEB TECHNOLOGIES
+
+<div align="center">
+
+| Category | Technologies | Proficiency |
+|:--------:|:------------:|:-----------:|
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS | ![95%](https://img.shields.io/badge/Proficiency-95%25-4169E1?style=flat-square) |
+| **Backend** | Node.js, Express.js, Golang, REST APIs | ![90%](https://img.shields.io/badge/Proficiency-90%25-4169E1?style=flat-square) |
+| **Database** | MongoDB, PostgreSQL, Prisma ORM, Mongoose | ![90%](https://img.shields.io/badge/Proficiency-90%25-4169E1?style=flat-square) |
+| **DevOps** | Docker, Nginx, CI/CD, AWS, Firebase | ![85%](https://img.shields.io/badge/Proficiency-85%25-4169E1?style=flat-square) |
+| **AI Tools** | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![80%](https://img.shields.io/badge/Proficiency-80%25-4169E1?style=flat-square) |
+
+</div>
 
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
