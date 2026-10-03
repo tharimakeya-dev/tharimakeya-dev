@@ -10,9 +10,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
-</p>
+</p>   <p align="center">
+     <img src="keya.jpg" width="500" alt="My Setup">
+   </p>
 
----
 
 ## 👩‍💻 About Me
 
