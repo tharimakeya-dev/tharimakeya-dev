@@ -116,7 +116,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
  
-   <img src="river.svg" alt="River animation" width="100%">
+  
 ### ✍️ Random Dev Quote
 
 ![Dev Quote](quote.svg)
