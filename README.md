@@ -84,8 +84,11 @@ A responsive e-commerce website built with modern frontend technologies.
 <a href="https://www.linkedin.com/in/tharima-sultana-keya">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
 </a>
-<a href="https://facebook.com/https://www.facebook.com/tahrimasuzeankeya" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
+<a href="https://www.facebook.com/tahrimasuzeankeya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+       width="32"
+       height="32"
+       alt="Facebook" />
 </a>
 <a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
 <a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
