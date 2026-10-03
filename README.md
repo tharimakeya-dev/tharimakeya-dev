@@ -30,7 +30,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 ---
 
 ## 🛠️ Skills in Technologies
-<h2><b>🛠️ Languages and Tools:</b></h2>
+<
 
 <h4>💻 Languages</h4>
 <p>
