@@ -191,7 +191,8 @@ flowchart TB
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/keya-banner.svg" alt="KEYA" width="600">
 </p>
  <img align="right" src="./panda.svg" width="180" alt="Smiling panda" /> 
-### ✍️ Random Dev Quote
+ 
+### ✍️Random Dev Quote
 
 ![Dev Quote](quote.svg)
 
