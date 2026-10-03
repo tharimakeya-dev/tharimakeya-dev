@@ -31,35 +31,34 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 ## 🛠️ Skills in Technologies
 
+**Languages:**
 
-<h4>💻 Languages</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,py,java,c,ts,mysql" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
 
-<h4>🌐 Web Development</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Web Development" />
-</p>
+**CSS Frameworks & Libraries:**
 
-<h4>🗄️ Database & Backend</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs,express" alt="Database and Backend" />
-</p>
+<img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap" />
 
-<h2>🔧 <strong>Tools & Platforms</strong></h2>
+**JavaScript Frameworks & Libraries:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase,vercel,linux&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
 
-### 🎨 Design & Graphics
+**Database & Model:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" />
-  <img src="https://skillicons.dev/icons?i=ai" width="50" />
-  <img src="https://skillicons.dev/icons?i=ps" width="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
+
+**Deployment Platform:**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+
+**Design & Graphics:**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+
+**Tools & Technologies:**
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
+
 
 <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
