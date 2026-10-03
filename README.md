@@ -64,7 +64,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🟦 TypeScript
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
-
+<p align="center">
+  <img src="./assets/banner.png" alt="Guidely Banner" width="100%" />
+</p>
 
 <h2><b>📍 Social links for Contact</b></h2>
 
