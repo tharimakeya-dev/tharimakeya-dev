@@ -110,6 +110,12 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 🌍 Portfolio Website: Coming Soon!
 
+   ## 📈 Contribution Graph
+
+   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharimakeya-dev)
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/thanks.svg" alt="Thanks for visiting my profile!" />
 </p>
