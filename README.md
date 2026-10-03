@@ -48,8 +48,8 @@ I'm currently focused on strengthening my frontend development skills through bu
 </p>
 
 <h4>🔧 Tools & Platforms</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools and Platforms" />
+<p align="center">
+  <img src="assets/banner.png" alt="Guidely Banner" width="100%" />
 </p>
 <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
