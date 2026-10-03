@@ -193,7 +193,14 @@ flowchart TB
 | **Cybersecurity** | 🟡 Intermediate | 6+ | 🟢 Advanced |
 
 </div>
+## 📊 GITHUB STATISTICS & ANALYSIS:
 
+**GitHub Contributions:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/output/github-snake.svg" />
+</picture>
 
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
