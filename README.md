@@ -112,7 +112,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
    ## 📈 Contribution Graph
 
-   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharimakeya-dev)
+   [Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharimakeya-dev)
 
 
 
