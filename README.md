@@ -40,7 +40,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 <h4>🌐 Web Development</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Web Development" />
-</p>
+</p>💡💡
 
 <h4>🗄️ Database & Backend</h4>
 <p>
@@ -54,7 +54,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 ---
    <img src="cute.png" align="right" width="200" alt="avatar" />
  
- ##💡 My Focus Area
+ ##💡My Facus Area
+ 
+ 
 🌐 Web Development
 - 🎨 Frontend Development
 - ⚡ JavaScript & ES6
@@ -103,7 +105,7 @@ I'm currently focused on strengthening my frontend development skills through bu
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-
+ 
 </p>
 
 🌍 Portfolio Website: Coming Soon!
