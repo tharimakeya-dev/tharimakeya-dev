@@ -107,7 +107,7 @@ I'm currently focused on strengthening my frontend development skills through bu
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 <a href="mailto:tahromakeya22@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tahromakeya22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-tahrimakeya22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail" />
 </a>
 </p>
 
