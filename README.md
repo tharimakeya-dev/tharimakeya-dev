@@ -168,6 +168,22 @@ flowchart TB
 - Node.js Services Developer
 - Docker Certified Associate
 - Cybersecurity Fundamentals
+## 📊 SKILL METRICS & PROGRESS
+
+<div align="center">
+
+| Skill Category | Current Level | Projects Completed | Target Mastery |
+|:--------------:|:-------------:|:------------------:|:--------------:|
+| **React & Frontend** | 🟢 Advanced | 15+ | ⭐ Expert |
+| **Node.js & Backend** | 🟢 Advanced | 12+ | ⭐ Expert |
+| **Database Design** | 🟡 Intermediate+ | 10+ | 🟢 Advanced |
+| **DevOps & Deployment** | 🟡 Intermediate+ | 8+ | 🟢 Advanced |
+| **AI Integration** | 🟡 Intermediate | 5+ | 🟡 Intermediate+ |
+| **Cybersecurity** | 🟡 Intermediate | 6+ | 🟢 Advanced |
+
+</div>
+
+
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
