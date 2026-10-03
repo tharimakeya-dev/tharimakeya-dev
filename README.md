@@ -111,7 +111,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 🌍 Portfolio Website: Coming Soon!
 
-<img src="contribution-graph.svg" width="100%" alt="Contribution Graph" />
+![Contribution Graph](https://ghchart.rshah.org/tharimakeya-dev)
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
