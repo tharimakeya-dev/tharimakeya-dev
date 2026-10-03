@@ -71,7 +71,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 <h2><b>📍 Social links for Contact</b></h2>
 
-- 📍 **Location:** Bangladesh
+ 🇧🇩**Location:** Bangladesh
 
 <a href="https://x.com/TahrimaKeya">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
