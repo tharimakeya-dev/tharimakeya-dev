@@ -206,6 +206,4 @@ flowchart TB
 ### ✍️Random Dev Quote
 
 ![Dev Quote](quote.svg)
-<p align="right">
-  <img src="./assets/keya.jpeg" width="160" alt="Keya" />
-</p>
+
