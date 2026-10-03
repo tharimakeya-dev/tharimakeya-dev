@@ -26,11 +26,8 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 💡 Interested in creating clean, responsive and user-friendly websites
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
 - 🤝 Open to learning, collaboration and new opportunities
-## 🛠️ Skills in Technologies
 
-<table>
-<tr>
-<td valign="top">
+## 🛠️ Skills in Technologies
 
 **Languages:**
 
@@ -59,15 +56,6 @@ I'm currently focused on strengthening my frontend development skills through bu
 **Tools & Technologies:**
 
 <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
-
-</td>
-<td valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/assets/keya.jpeg" width="280" />
-
-</td>
-</tr>
-</table>
 
 
 
