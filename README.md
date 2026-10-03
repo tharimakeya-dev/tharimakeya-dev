@@ -115,7 +115,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
- 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/keya-banner.svg" alt="KEYA" width="600">
+</p>
   
 ### ✍️ Random Dev Quote
 
