@@ -53,6 +53,14 @@ I'm currently focused on strengthening my frontend development skills through bu
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase,vercel,linux&perline=8" />
 </p>
 
+### 🎨 Design & Graphics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=ai" width="50" />
+  <img src="https://skillicons.dev/icons?i=ps" width="50" />
+</p>
+
 <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
 </p>
