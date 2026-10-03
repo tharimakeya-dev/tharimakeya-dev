@@ -114,7 +114,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 ## 📈 Contribution Graph
 <img src="https://github-readme-stats.vercel.app/api?username=tharimakeya-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
 
-
+   <p align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&vCenter=true&width=600&height=60&color=9333EA&lines=%F0%9F%92%99+Thanks+for+visiting+my+profile!+%F0%9F%92%9C" alt="Thanks for visiting my profile" />
+   </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/wave-fish.svg" alt="Wave with fish" width="100%" />
 </p>
