@@ -40,7 +40,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 <h4>🌐 Web Development</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Web Development" />
-</p>💡💡
+</p>
 
 <h4>🗄️ Database & Backend</h4>
 <p>
