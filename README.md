@@ -129,7 +129,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 | **AI Tools** | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![80%](https://img.shields.io/badge/Proficiency-80%25-4169E1?style=flat-square) |
 
 </div>
-## 🎯 CERTIFICATION ROADMAP
+
 
 ### 📚 LEARNING PATH
 
