@@ -111,7 +111,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 🌍 Portfolio Website: Coming Soon!
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharimakeya-dev&theme=react-dark&bg_color=ffffff&color=a855f7&line=a855f7&point=e9d5ff&area=true&area_color=a855f7&hide_border=true&custom_title=Khandokar%20Sahaf%27s%20Contribution%20Graph)
+
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
