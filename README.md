@@ -27,7 +27,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
 - 🤝 Open to learning, collaboration and new opportunities
 
----
+
 
 ## 🛠️ Skills in Technologies
 
@@ -113,7 +113,7 @@ A responsive e-commerce website built with modern frontend technologies.
   <a href="https://github.com/tharimakeya-dev">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-<a href="mailto:tahromakeya22@gmail.com">
+<a href=":tahrimakeya22@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-tahrimakeya22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0B6623" alt="Gmail" />
 </a>
 </p>
