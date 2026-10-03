@@ -54,7 +54,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 ---
    <img src="cute.png" align="right" width="200" alt="avatar" />
  
- ## My Focus Area
+ ##💡 My Focus Area
 🌐 Web Development
 - 🎨 Frontend Development
 - ⚡ JavaScript & ES6
