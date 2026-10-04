@@ -27,13 +27,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
 - 🤝 Open to learning, collaboration and new opportunities
 
-<table>
-<tr>
-<td width="65%">
-
 ## 🛠️ Skills in Technologies
 
-**Languages:**
+*Languages:*
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
 
@@ -62,12 +58,6 @@ I'm currently focused on strengthening my frontend development skills through bu
 <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
 
 
-</td>
-<td width="35%" align="center">
-
-<img src="Screenshot_2.png" alt="My Anime Avatar" width="300"/
-
-
 <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
 </p>
@@ -81,6 +71,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🟦 TypeScript
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
+
+<img align="right" src="Screenshot_2.png" width="250"/>
+
   
 ## 📌 Featured Projects
 
