@@ -27,36 +27,45 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
 - 🤝 Open to learning, collaboration and new opportunities
 
+<table>
+<tr>
+<td width="65%">
+
 ## 🛠️ Skills in Technologies
 
 **Languages:**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
 
-**CSS Frameworks & Libraries:**
+*CSS Frameworks & Libraries:*
 
 <img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap" />
 
-**JavaScript Frameworks & Libraries:**
+*JavaScript Frameworks & Libraries:*
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
 
-**Database & Model:**
+*Database & Model:*
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
 
-**Deployment Platform:**
+*Deployment Platform:*
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 
-**Design & Graphics:**
+*Design & Graphics:*
 
 <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 
-**Tools & Technologies:**
+*Tools & Technologies:*
 
 <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
 
+
+</td>
+<td width="35%" align="center">
+
+<img src="Screenshot_2.png" alt="My Anime Avatar" width="300"/
 
 
 <p align="center">
