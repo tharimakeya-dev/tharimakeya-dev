@@ -12,7 +12,6 @@
   </a>
 
 
-
 ## 👩‍💻 About Me
 
 I'm **Tharima Sultana Keya**, a passionate aspiring **Full Stack Web Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
@@ -29,31 +28,31 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 ## 🛠️ Skills in Technologies
 
-*Languages:*
+**Languages:**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
 
-*CSS Frameworks & Libraries:*
+**CSS Frameworks & Libraries:**
 
 <img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap" />
 
-*JavaScript Frameworks & Libraries:*
+**JavaScript Frameworks & Libraries:**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
 
-*Database & Model:*
+**Database & Model:**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" />
 
-*Deployment Platform:*
+**Deployment Platform:**
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 
-*Design & Graphics:*
+**Design & Graphics:**
 
 <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 
-*Tools & Technologies:*
+**Tools & Technologies:**
 
 <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
 
@@ -72,8 +71,9 @@ I'm currently focused on strengthening my frontend development skills through bu
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
 
-<img align="right" src="Screenshot_2.png" width="250"/>
-
+<p align="center">
+  <img src="Screenshot_2.png" width="250" style="border-radius:50%"/>
+</p>
   
 ## 📌 Featured Projects
 
