@@ -59,21 +59,20 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 
 
-
 <p align="center">
   <img src="./cute.png" width="200" alt="avatar" />
 </p>
 
   
  ## 💡 **My Focus Areas**
- 
- 
-🌐 Web Development
+  
+  🌐  Web Development
 - 🎨 Frontend Development
 - ⚡ JavaScript & ES6
 - 🟦 TypeScript
 - ⚛️ React.js & Next.js
 - 🤖 AI / ML (interested)
+  
 ## 📌 Featured Projects
 
 ### 🛍️ E-Commerce Website
