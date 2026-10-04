@@ -26,7 +26,6 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
 - 🤝 Open to learning, collaboration and new opportunitie
 
-![Banner](banner.png)
 
 ## 🛠️ Skills in Technologies
 
