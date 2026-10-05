@@ -62,15 +62,14 @@ I'm currently focused on strengthening my frontend development skills through bu
   <img src="./cute.png" width="200" alt="avatar" />
 </p>
 
-  
  ## 💡 **My Focus Areas**
   
   🌐  Web Development
-- 🎨 Frontend Development
-- ⚡ JavaScript & ES6
-- 🟦 TypeScript
-- ⚛️ React.js & Next.js
-- 🤖 AI / ML (interested)
+  🎨  Frontend: React.js, Next.js, TypeScript
+  ⚡  Backend: Node.js, Express.js, REST APIs
+  🟦  Database: MongoDB, Mongoose
+  ⚛️  Tools: Git, Docker, Postman
+  🤖  Currently exploring: AI/ML
 
 <p align="center">
   <img src="Screenshot_2.png" width="250" style="border-radius:50%"/>
