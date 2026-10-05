@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png.jpeg" alt="Tharima Sultana Keya Banner" width="100%">
+  <img src="banner.png" alt="Tharima Sultana Keya Banner" width="100%">
 </p>
 
 
