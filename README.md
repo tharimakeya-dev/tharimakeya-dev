@@ -174,16 +174,16 @@ flowchart TB
     style F fill:#ff6b6b,color:#fff,stroke:#cc5555
     style G fill:#f9a825,color:#000,stroke:#c68400
     style H fill:#9b6dff,color:#fff,stroke:#7448d6
-```
 
-### 🏆 TARGET CERTIFICATIONS
+## 🏆 **Target Certifications**
 
-- MongoDB University Certification
-- AWS Certified Developer Associate
-- React Developer Certification
-- Node.js Services Developer
-- Docker Certified Associate
-- Cybersecurity Fundamentals
+- 🍃 MongoDB Associate Developer
+- ☁️ AWS Certified Cloud Practitioner → Developer Associate
+- 🟢 OpenJS Node.js Services Developer (JSNSD)
+- ⚛️ Meta Front-End / React Specialization (Coursera)
+- 🐳 Docker Foundations (Docker Certified Associate, যদি এখনো available থাকে)
+
+ 
 ## 📊 SKILL METRICS & PROGRESS
 
 <div align="center">
