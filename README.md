@@ -197,6 +197,7 @@ flowchart TB
     style F fill:#f3e8ff,stroke:#7448d6
     style G fill:#f3e8ff,stroke:#7448d6
     style H fill:#f3e8ff,stroke:#7448d6
+```
 
 ## 🏆 **Target Certifications**
 
@@ -209,12 +210,13 @@ flowchart TB
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
- <p align="center">
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/keya-banner.svg" alt="KEYA" width="600">
 </p>
- <img align="right" src="./panda.svg" width="180" alt="Smiling panda" /> 
- 
-### ✍️Random Dev Quote
+
+<img align="right" src="./panda.svg" width="180" alt="Smiling panda" />
+
+### ✍️ Random Dev Quote
 
 ![Dev Quote](quote.svg)
-
