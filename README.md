@@ -175,7 +175,6 @@ A responsive e-commerce website built with modern frontend technologies.
 
 ## 📚 LEARNING PATH
 
-
 ```mermaid
 flowchart TB
     subgraph R1[" "]
@@ -193,15 +192,16 @@ flowchart TB
     style R1 fill:none,stroke:none
     style R2 fill:none,stroke:none
 
-    style A fill:#ffcdd2,stroke:#e53935,stroke-width:2px,color:#b71c1c
-    style B fill:#bbdefb,stroke:#1e88e5,stroke-width:2px,color:#0d47a1
-    style C fill:#c8e6c9,stroke:#43a047,stroke-width:2px,color:#1b5e20
-    style D fill:#dcedc8,stroke:#7cb342,stroke-width:2px,color:#33691e
-    style E fill:#ffe0b2,stroke:#fb8c00,stroke-width:2px,color:#e65100
-    style F fill:#f8bbd0,stroke:#d81b60,stroke-width:2px,color:#880e4f
-    style G fill:#e1bee7,stroke:#8e24aa,stroke-width:2px,color:#4a148c
-    style H fill:#b2dfdb,stroke:#00897b,stroke-width:2px,color:#004d40
+    style A fill:#e53935,stroke:#b71c1c,stroke-width:2px,color:#ffffff
+    style B fill:#1e88e5,stroke:#0d47a1,stroke-width:2px,color:#ffffff
+    style C fill:#43a047,stroke:#1b5e20,stroke-width:2px,color:#ffffff
+    style D fill:#7cb342,stroke:#33691e,stroke-width:2px,color:#ffffff
+    style E fill:#fb8c00,stroke:#e65100,stroke-width:2px,color:#ffffff
+    style F fill:#d81b60,stroke:#880e4f,stroke-width:2px,color:#ffffff
+    style G fill:#8e24aa,stroke:#4a148c,stroke-width:2px,color:#ffffff
+    style H fill:#00897b,stroke:#004d40,stroke-width:2px,color:#ffffff
 ```
+
 
 
 ## 🏆 **Target Certifications**
