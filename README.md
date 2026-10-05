@@ -64,7 +64,7 @@ I'm currently focused on strengthening my frontend development skills through bu
 
 ## 💡 My Focus Areas
 
-  🌐 **Full-Stack Web Development (MERN)**
+   🌐 **Full-Stack Web Development (MERN)**
 
 - 🎨 **Frontend:** React.js, Next.js, TypeScript
 - ⚡ **Language:** JavaScript (ES6+), TypeScript
