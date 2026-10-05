@@ -154,7 +154,7 @@ A responsive e-commerce website built with modern frontend technologies.
 - ☁️ AWS Certified Cloud Practitioner → Developer Associate
 - 🟢 OpenJS Node.js Services Developer (JSNSD)
 - ⚛️ Meta Front-End / React Specialization (Coursera)
-- 🐳 Docker Foundations (Docker Certified Associate)
+- 🐳 Docker Foundations 
 
  
 ## 📊 SKILL METRICS & PROGRESS
