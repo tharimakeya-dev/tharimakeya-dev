@@ -148,14 +148,13 @@ A responsive e-commerce website built with modern frontend technologies.
 
 
 
-
 ## 🏆 **Target Certifications**
 
 - 🍃 MongoDB Associate Developer
 - ☁️ AWS Certified Cloud Practitioner → Developer Associate
 - 🟢 OpenJS Node.js Services Developer (JSNSD)
 - ⚛️ Meta Front-End / React Specialization (Coursera)
-- 🐳 Docker Foundations (Docker Certified Associate, যদি এখনো available থাকে)
+- 🐳 Docker Foundations (Docker Certified Associate)
 
  
 ## 📊 SKILL METRICS & PROGRESS
