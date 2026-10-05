@@ -147,33 +147,7 @@ A responsive e-commerce website built with modern frontend technologies.
 </div>
 
 
-### 📚 LEARNING PATH
 
-```mermaid
-flowchart TB
-    subgraph R1[" "]
-        direction LR
-        A["1️⃣ Core Web<br/>Fundamentals"] --> B["2️⃣ Frontend<br/>Development"] --> C["3️⃣ Backend<br/>Development"] --> D["4️⃣ Database<br/>Management"]
-    end
-
-    subgraph R2[" "]
-        direction LR
-        E["5️⃣ DevOps &<br/>Deployment"] --> F["6️⃣ AI<br/>Integration"] --> G["7️⃣ Cyber<br/>security"] --> H["8️⃣ Certified<br/>Full-Stack Dev"]
-    end
-
-    R1 ~~~ R2
-
-    style R1 fill:none,stroke:none
-    style R2 fill:none,stroke:none
-
-    style A fill:#4169E1,color:#fff,stroke:#2b4bb5
-    style B fill:#2a9d8f,color:#fff,stroke:#1f7a70
-    style C fill:#2d9a2d,color:#fff,stroke:#1f701f
-    style D fill:#4caf50,color:#fff,stroke:#388e3c
-    style E fill:#0b7dda,color:#fff,stroke:#085ba3
-    style F fill:#ff6b6b,color:#fff,stroke:#cc5555
-    style G fill:#f9a825,color:#000,stroke:#c68400
-    style H fill:#9b6dff,color:#fff,stroke:#7448d6
 
 ## 🏆 **Target Certifications**
 
@@ -199,6 +173,38 @@ flowchart TB
 
 </div>
 
+## 📚 LEARNING PATH
+
+```mermaid
+flowchart TB
+    subgraph R1[" "]
+        direction LR
+        A["1️⃣ Core Web<br/>Fundamentals"] --> B["2️⃣ Frontend<br/>Development"] --> C["3️⃣ Backend<br/>Development"] --> D["4️⃣ Database<br/>& APIs"]
+    end
+
+    subgraph R2[" "]
+        direction LR
+        E["5️⃣ DevOps &<br/>Deployment"] --> F["6️⃣ AI<br/>Integration"] --> G["7️⃣ Cyber<br/>security"] --> H["8️⃣ Certified<br/>Full-Stack Dev"]
+    end
+
+    R1 --> R2
+
+    style A fill:#f3e8ff,stroke:#7448d6
+    style B fill:#f3e8ff,stroke:#7448d6
+    style C fill:#f3e8ff,stroke:#7448d6
+    style D fill:#f3e8ff,stroke:#7448d6
+    style E fill:#f3e8ff,stroke:#7448d6
+    style F fill:#f3e8ff,stroke:#7448d6
+    style G fill:#f3e8ff,stroke:#7448d6
+    style H fill:#f3e8ff,stroke:#7448d6
+
+## 🏆 **Target Certifications**
+
+- 🍃 **MongoDB Associate Developer**
+- ☁️ **AWS Certified Cloud Practitioner → Developer Associate**
+- 🟢 **OpenJS Node.js Services Developer (JSNSD)**
+- ⚛️ **Meta Front-End / React Specialization (Coursera)**
+- 🐳 **Docker Foundations**
 
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
