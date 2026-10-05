@@ -65,10 +65,15 @@ I'm currently focused on strengthening my frontend development skills through bu
  ## 💡 **My Focus Areas**
   
   🌐  Web Development
+  
   🎨  Frontend: React.js, Next.js, TypeScript
+  
   ⚡  Backend: Node.js, Express.js, REST APIs
+  
   🟦  Database: MongoDB, Mongoose
+  
   ⚛️  Tools: Git, Docker, Postman
+  
   🤖  Currently exploring: AI/ML
 
 <p align="center">
