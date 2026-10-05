@@ -82,8 +82,10 @@ I'm currently focused on strengthening my frontend development skills through bu
 ## 📌 Featured Projects
 
 ### 🛍️ E-Commerce Website
-A responsive e-commerce website built with modern frontend technologies.
 
+<p style="font-weight: bold; color: #0b2a8a;">
+  A responsive e-commerce website built with modern fronted technologies.
+</p>
 **Tech:** React • JavaScript • Tailwind CSS
 
 <h2><b>📍 Social links for Contact</b></h2>
