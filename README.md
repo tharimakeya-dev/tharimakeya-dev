@@ -141,11 +141,11 @@ Tech: React • JavaScript • Tailwind CSS
 
 | Category | Technologies | Proficiency |
 |:--------:|:------------:|:-----------:|
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS | ![95%](https://img.shields.io/badge/Proficiency-95%25-4169E1?style=flat-square) |
-| **Backend** | Node.js, Express.js, Golang, REST APIs | ![90%](https://img.shields.io/badge/Proficiency-90%25-4169E1?style=flat-square) |
-| **Database** | MongoDB, PostgreSQL, Prisma ORM, Mongoose | ![90%](https://img.shields.io/badge/Proficiency-90%25-4169E1?style=flat-square) |
-| **DevOps** | Docker, Nginx, CI/CD, AWS, Firebase | ![85%](https://img.shields.io/badge/Proficiency-85%25-4169E1?style=flat-square) |
-| **AI Tools** | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![80%](https://img.shields.io/badge/Proficiency-80%25-4169E1?style=flat-square) |
+| $\color{#8A2BE2}{\textbf{Frontend}}$ | React.js, Next.js, TypeScript, Tailwind CSS | ![Proficiency](https://img.shields.io/badge/Proficiency-95%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{Backend}}$ | Node.js, Express.js, Golang, REST APIs | ![Proficiency](https://img.shields.io/badge/Proficiency-90%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{Database}}$ | MongoDB, PostgreSQL, Prisma ORM, Mongoose | ![Proficiency](https://img.shields.io/badge/Proficiency-90%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{DevOps}}$ | Docker, Nginx, CI/CD, AWS, Firebase | ![Proficiency](https://img.shields.io/badge/Proficiency-85%25-4169E1?labelColor=9B111E) |
+| $\color{#8A2BE2}{\textbf{AI Tools}}$ | Gemini AI, Jasper AI, OpenAI API, AI Automation | ![Proficiency](https://img.shields.io/badge/Proficiency-80%25-4169E1?labelColor=9B111E) |
 
 </div>
 
