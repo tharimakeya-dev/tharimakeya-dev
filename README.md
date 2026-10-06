@@ -8,13 +8,13 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=MERN+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=FULL+Stack+web+Developer" alt="Typing SVG" />
   </a>
 
 
 ## 👩‍💻 About Me
 
-I'm **Tharima Sultana Keya**, a passionate aspiring **Mern Stack  Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
+I'm **Tharima Sultana Keya**, a passionate aspiring **FULL Stack  Developer** who enjoys turning ideas into functional, scalable and user-friendly web applications.
 
 I'm currently focused on strengthening my frontend development skills through building real-world projects and improving my problem-solving abilities.
 
