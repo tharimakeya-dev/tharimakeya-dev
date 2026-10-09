@@ -28,10 +28,10 @@ I'm currently focused on strengthening my frontend development skills through bu
 - 💡 Interested in creating clean, responsive and user-friendly websites
 - 🎯 My goal is to become a professional **Full Stack Web Developer**
 - 🤝 Open to learning, collaboration and new opportunitie
-
 <p align="center">
   <img src="ascii_art_2.svg" alt="ASCII Art" width="500">
 </p>
+
 ## 🛠️ Skills in Technologies
 
 **Languages:**
