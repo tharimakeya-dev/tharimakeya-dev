@@ -5,7 +5,7 @@ banner.png" width="100%">
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/bismillah.svg" alt="Bismillah" />
 </p>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32" /> Hi, I'm ...
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32" /> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=4000&pause=800&color=9333EA&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Tharima+Sultana+Keya" alt="Hi, I'm Tharima Sultana Keya" />
 </p>
