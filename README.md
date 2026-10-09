@@ -31,8 +31,8 @@ I'm currently focused on strengthening my frontend development skills through bu
 <p align="center">
   <img src="ascii_art_2.svg" alt="ASCII Art" width="500">
 </p>
-## 🛠️ Skills in Technologies
 
+## 🛠️ Skills in Technologies
 **Languages:**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,py" />
