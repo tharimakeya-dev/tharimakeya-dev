@@ -220,9 +220,9 @@ flowchart TB
 <p align="center">
 <img src="thanks.svg" width="100%" alt="Thanks for visiting my profile" />
 </p>
-<p align="center">
-  <span style="color:#FF00FF; font-weight:bold;">If you like my work, consider giving a ⭐ to the repositories you find useful.</span>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tharimakeya-dev/REPO/main/like-banner.svg" alt="If you like my work, consider giving a ⭐ to the repositories you find useful." />
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/keya-banner.svg" alt="KEYA" width="600">
 </p>
