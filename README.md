@@ -66,6 +66,11 @@ I'm currently focused on strengthening my frontend development skills through bu
   <img src="./cute.png" width="200" alt="avatar" />
 </p>
 
+## Stack :
+
+![JS Stack](js.gif)
+
+
 ## 💡 My Focus Areas
 
    🌐**Full-Stack Web Development (MERN)**
