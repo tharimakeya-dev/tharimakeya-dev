@@ -101,25 +101,19 @@ Tech: React • JavaScript • Tailwind CSS
 
  🇧🇩 **Location:** Bangladesh
 
-<p align="center">
-  <a href="https://x.com/TahrimaKeya">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/tharima-sultana-keya">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/tahrimasuzeankeya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/tahrimasuzeankeya">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@keyascreativity12">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" height="32" alt="YouTube" />
-  </a>
-</p>
+<a href="https://x.com/TahrimaKeya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/tharima-sultana-keya">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/tahrimasuzeankeya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
+<a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="./assets/cat.gif" width="300" alt="Cat coding animation" />
