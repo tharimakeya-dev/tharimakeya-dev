@@ -116,8 +116,22 @@ Tech: React • JavaScript • Tailwind CSS
 <a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
 <a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
 
-           
-   ![Cat](cat.gif)
+      <p align="center">
+  <a href="YOUR_X_LINK"><img src="X_ICON_URL" width="32" /></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="LINKEDIN_ICON_URL" width="32" /></a>
+  <a href="YOUR_FACEBOOK_LINK"><img src="FACEBOOK_ICON_URL" width="32" /></a>
+  <a href="YOUR_INSTAGRAM_LINK"><img src="INSTAGRAM_ICON_URL" width="32" /></a>
+  <a href="YOUR_YOUTUBE_LINK"><img src="YOUTUBE_ICON_URL" width="32" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="![Cat](cat.gif)" width="300" alt="Cat coding animation" />
+</p>
+
+<h2 align="center">🎨 Where Code Meets Creativity</h2>     
+   
 
 # 🎨 Where Code Meets Creativity
 
