@@ -116,7 +116,7 @@ Tech: React • JavaScript • Tailwind CSS
 <a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
 <a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
 
-![White Cat](white_cat.gif)
+![Cat](cat.gif)
 
 # 🎨 Where Code Meets Creativity
 
