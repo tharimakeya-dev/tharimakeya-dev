@@ -117,8 +117,7 @@ Tech: React • JavaScript • Tailwind CSS
 <a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
 
            
-            ![Cat](cat.gif)
-
+   ![Cat](images/cat.gif)
 # 🎨 Where Code Meets Creativity
 
 Here's a web development version in the same style:
