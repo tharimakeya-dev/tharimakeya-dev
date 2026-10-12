@@ -115,7 +115,15 @@ Tech: React • JavaScript • Tailwind CSS
 </a>
 <a href="https://www.instagram.com/tahrimasuzeankeya"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"></a>
 <a href="https://www.youtube.com/@keyascreativity12"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"></a>
-  
+
+![White Cat](white_cat.gif)
+
+# 🎨 Where Code Meets Creativity
+
+Here's a web development version in the same style:
+"Code is the new canvas, but user experience is the brush that brings ideas to life."
+Core Values: Clean Code • Creativity • Collaboration • Continuous Learning's it tweaked for a different tone (more technical, more corporate, or more playful. I can also make a few alternative quotes if you'd like to choose from them. 
+ .
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/shimmer.svg" alt="Code. Build. Solve. Repeat." />
 </p>
