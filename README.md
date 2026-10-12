@@ -116,9 +116,8 @@ Tech: React • JavaScript • Tailwind CSS
 <br><br>
 
 <p align="center">
-  <img src="./assets/cat.gif" width="300" alt="Cat coding animation" />
+  <img src="./js.gif" width="300" alt="Cat coding animation" />
 </p>
-   
 
 # 🎨 Where Code Meets Creativity
 
