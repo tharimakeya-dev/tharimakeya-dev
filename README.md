@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Tharima Sultana Keya 
-banner.png" width="100%">
-</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/bismillah.svg" alt="Bismillah" />
 </p>
