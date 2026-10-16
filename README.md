@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tharimakeya-dev/tharimakeya-dev/main/bismillah.svg" alt="Bismillah" />
 </p>
